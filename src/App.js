@@ -2,7 +2,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    //BEM Convention naming
+    <div className="app">
       <h1>Hello Bebyelephant, lets build the first react app</h1>
     </div>
   );
