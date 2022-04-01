@@ -21,3 +21,10 @@
     margin: 0 20px;
     margin-top: 18px;
 }
+
+/*style icon*/
+.header__searchIcon {
+    padding: 5px;
+    height: 22px !important;
+    background-color: #cd9042;
+}
