@@ -5,7 +5,7 @@ function App() {
   return (
     //BEM Convention naming
     <div className="app">
-      {/*Removed placeholder text*/}
+      {/*Removed place holder text*/}
 
       {/* 
       Header 
