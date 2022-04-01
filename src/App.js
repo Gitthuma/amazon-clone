@@ -5,7 +5,7 @@ function App() {
   return (
     //BEM Convention naming
     <div className="app">
-      <h1>Hello Bebyelephant, lets build the first react app</h1>
+      {/*Removed placeholder text*/}
 
       {/* 
       Header 
