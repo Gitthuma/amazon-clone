@@ -11,9 +11,9 @@ function Header() {
             src='http://pngimg.com/uploads/amazon/amazon_PNG11.png'
         />
 
-        <div className='header_search'>
+        <div className='header__search'>
             <input 
-                className='header__SearchInpit' 
+                className='header__SearchInput' 
                 type='text'/>
             <SearchIcon 
             className='header__searchIcon'/>

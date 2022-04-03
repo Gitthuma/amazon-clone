@@ -22,6 +22,22 @@
     margin-top: 18px;
 }
 
+/*Style search and search input*/
+
+.header__search {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    border-radius: 24px;
+}
+
+.header__SearchInput {
+    height: 12px;
+    padding: 10px;
+    border: none;
+    width: 100%;
+}
+
 /*style icon*/
 .header__searchIcon {
     padding: 5px;
