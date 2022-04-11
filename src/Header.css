@@ -56,6 +56,13 @@
     font-weight: 800;
 }
 
+/*Style header__optionBasket*/
+.header__optionBasket{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
 /*Style header_nav*/
 .header_nav{
     display: flex;
