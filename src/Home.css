@@ -1,0 +1,8 @@
+ /*Style home__image*/
+ .home__image{
+     width: 100%;
+     z-index: -1; /*Make sure banner will be behind everything*/
+     margin-bottom: -150px;
+     mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), 
+     rgba(0, 0, 0, 0)); /*Causes the fade*/
+ }
