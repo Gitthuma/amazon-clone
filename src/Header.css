@@ -45,6 +45,17 @@
     background-color: #cd9042;
 }
 
+/*Style header__navOptionLine1*/
+.header__navOptionLine1{
+    font-size: 10px;
+}
+
+/*Style header__navOptionLine2*/
+.header__navOptionLine2{
+    font-size: 13px;
+    font-weight: 800;
+}
+
 /*Style header_nav*/
 .header_nav{
     display: flex;
