@@ -45,6 +45,12 @@
     background-color: #cd9042;
 }
 
+/*Style header_nav*/
+.header_nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
 /*Style header__navOption*/
 .header__navOption{
     display: flex;
