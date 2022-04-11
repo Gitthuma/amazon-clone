@@ -1,13 +1,14 @@
 /*Style product*/
 .product {
-    display: flex; /*everything goes into a row*/
+    display: flex; 
     flex-direction: column;
+    background-color: white;
 }
 
 /*Target img inside product container*/
-.product > img {
-    max-height: 200px; /*Maximum height*/
-    width: 100%; /*Fits its full width*/
-    object-fit: contain; /*Contain inside its container*/
-    margin-bottom: 15px; /*Bottom margin*/
+.product__image {
+    max-height: 200px; 
+    width: 100%; 
+    object-fit: contain; 
+    margin-bottom: 15px; 
 }
