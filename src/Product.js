@@ -34,6 +34,9 @@ function Product() {
               alt='Product Image'
             />
 
+            {/*Add an Add to Busket button*/}
+            <button>Add to Busket</button>
+
         </div>
 
     </div>
