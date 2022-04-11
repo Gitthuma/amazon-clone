@@ -63,6 +63,12 @@
     color: white;
 }
 
+/*Style header__baskectCount*/
+.header__baskectCount{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 /*Style header_nav*/
 .header_nav{
     display: flex;
