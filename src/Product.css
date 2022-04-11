@@ -1,5 +1,13 @@
 /*Style product*/
-.product{
+.product {
     display: flex; /*everything goes into a row*/
     flex-direction: column;
+}
+
+/*Target img inside product container*/
+.product > img {
+    max-height: 200px; /*Maximum height*/
+    width: 100%; /*Fits its full width*/
+    object-fit: contain; /*Contain inside its container*/
+    margin-bottom: 15px; /*Bottom margin*/
 }

@@ -39,7 +39,8 @@ function Product() {
         </div>
 
     </div>
-  )
+  );
+  
 }
 
 export default Product
