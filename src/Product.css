@@ -2,7 +2,18 @@
 .product {
     display: flex; 
     flex-direction: column;
-    background-color: white;
+
+    /*Add more styling*/
+    align-items: center;
+    justify-content: flex-end;
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+    max-height: 400px;
+    min-width: 100px;
+
+    background-color: white; /*background color*/
+    z-index: 1; /*Brings item to the front*/
 }
 
 /*Target img inside product container*/
