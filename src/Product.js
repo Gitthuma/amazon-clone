@@ -24,8 +24,7 @@ function Product() {
             {/*Add div for product__rating*/}
             <div className='product__rating'>
               <p>🔆</p>
-              <p>🔆</p>
-              <p>🔆</p>
+              {/*Remove two star paragraphs*/}
             </div>
 
             {/*Add Product Image*/}
