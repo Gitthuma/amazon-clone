@@ -5,7 +5,7 @@ import Product from './Product'
 
 function Home() {
   return (
-    <div className='Home'>
+    <div className='home'>
        
         {/*Create the Home container*/}
         <div className='home__container'>
