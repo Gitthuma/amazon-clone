@@ -23,18 +23,28 @@ function Home() {
             <div className='home__row'>
                 {/*Render product 1*/}
                 <Product />
+
                 {/*Render product 2*/}
                 <Product />
+
             </div>
 
             <div className='home__row'>
-                {/*product*/}
-                {/*product*/}
-                {/*product*/}
+                {/*Render product 3*/}
+                <Product />
+
+                {/*Render product 4*/}
+                <Product />
+
+                {/*Render product 5*/}
+                <Product />
+
             </div>
 
             <div className='home__row'>
-                {/*product*/}
+                {/*Render product 6*/}
+                <Product />
+
             </div>
         </div>
 
