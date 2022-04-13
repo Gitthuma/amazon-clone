@@ -6,6 +6,14 @@
      margin-right: auto;
      max-width: 1500px;
  }
+
+ /*Style home__row*/
+ .home__row {
+     display: flex;
+     z-index: 1;
+     margin-left: 5px;
+     margin-right: 5px;
+ }
  
  /*Style home__image*/
  .home__image{
