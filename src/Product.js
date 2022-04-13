@@ -23,21 +23,21 @@ function Product() {
             
             {/*Add div for product__rating*/}
             <div className='product__rating'>
-              <p>🔆</p>
+              <p>⭐️</p>
               {/*Remove two star paragraphs*/}
             </div>
 
-            {/*Add Product Image*/}
-            <img 
+        </div>
+
+        {/*Add product__image*/}
+        <img 
               className='product__image' 
               src='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg'
               alt='Product Image'
             />
 
-            {/*Add an Add to Busket button*/}
-            <button className='add__toBusket'>Add to Busket</button>
-
-        </div>
+        {/*Add an Add to Busket button*/}
+        <button className='add__toBusket'>Add to Basket</button>
 
     </div>
   );
