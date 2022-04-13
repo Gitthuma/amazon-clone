@@ -24,6 +24,11 @@
     margin-bottom: 15px; 
 }
 
+/*Style product__price*/
+.product__price {
+    margin-top: 5px;
+}
+
 /*Style product__info*/
 .product__info {
     height: 100px;
