@@ -23,3 +23,9 @@
     object-fit: contain; 
     margin-bottom: 15px; 
 }
+
+/*Style product__info*/
+.product__info {
+    height: 100px;
+    margin-bottom: 15px;
+}
