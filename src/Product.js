@@ -35,7 +35,7 @@ function Product() {
             />
 
             {/*Add an Add to Busket button*/}
-            <button>Add to Busket</button>
+            <button className='add__toBusket'>Add to Busket</button>
 
         </div>
 
