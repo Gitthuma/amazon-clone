@@ -21,9 +21,10 @@ function Home() {
             {/*Add rows*/}
 
             <div className='home__row'>
-                {/*Render product*/}
+                {/*Render product 1*/}
                 <Product />
-                {/*product*/}
+                {/*Render product 2*/}
+                <Product />
             </div>
 
             <div className='home__row'>
